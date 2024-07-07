@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pingcommand.h": "c",
+        "ping-socket.h": "c",
+        "ping-command.h": "c"
+    }
+}
